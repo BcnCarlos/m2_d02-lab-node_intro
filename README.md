@@ -2,6 +2,10 @@
 
 # Intro to Node
 
+[![Automated Testing](https://github.com/Labs-IHWDFT/m2_d02-lab-node_intro/actions/workflows/test.yml/badge.svg?branch=solution)](https://github.com/Labs-IHWDFT/m2_d02-lab-node_intro/actions/workflows/test.yml)
+
+<hr>
+
 ## Introduction
 
 Today is our first day using Node, so we will practice doing some basic operations. **Ready to start?**
