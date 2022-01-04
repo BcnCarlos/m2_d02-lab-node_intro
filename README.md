@@ -4,7 +4,6 @@
 
 [![Automated Testing](https://github.com/Labs-IHWDFT/m2_d02-lab-node_intro/actions/workflows/test.yml/badge.svg?branch=solution)](https://github.com/Labs-IHWDFT/m2_d02-lab-node_intro/actions/workflows/test.yml)
 
-<hr>
 
 ## Introduction
 
